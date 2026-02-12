@@ -12,10 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "reorderly_add_to_list_WpwiAd": {
-          "type": "shopify://apps/reorderly/blocks/add-to-list/019c0e6e-125d-7dd7-b669-dc1066c16353",
-          "settings": {}
-        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -104,7 +100,6 @@
         }
       },
       "block_order": [
-        "reorderly_add_to_list_WpwiAd",
         "vendor",
         "title",
         "caption",
