@@ -41,6 +41,10 @@
             "swatch_shape": "circle"
           }
         },
+        "reorderly_add_to_list_g6VmWB": {
+          "type": "shopify://apps/reorderly/blocks/add-to-list/019c0e6e-125d-7dd7-b669-dc1066c16353",
+          "settings": {}
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -105,6 +109,7 @@
         "caption",
         "price",
         "variant_picker",
+        "reorderly_add_to_list_g6VmWB",
         "quantity_selector",
         "buy_buttons",
         "description",
