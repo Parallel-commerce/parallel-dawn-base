@@ -47,7 +47,9 @@
           "settings": {
             "button_label": "Save cart to list",
             "button_style": "outline",
-            "alignment": "right"
+            "alignment": "right",
+            "tooltip_text": "Save the products in your cart to a list so you can reorder them later.",
+            "tooltip_size": 16
           }
         }
       },
