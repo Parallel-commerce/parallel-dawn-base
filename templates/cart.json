@@ -46,7 +46,7 @@
           "type": "shopify://apps/orderloop/blocks/save-cart-to-list/019c0e6e-125d-7dd7-b669-dc1066c16353",
           "settings": {
             "button_label": "Save cart to list",
-            "button_style": "primary",
+            "button_style": "outline",
             "alignment": "right"
           }
         }
