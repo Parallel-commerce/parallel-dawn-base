@@ -136,15 +136,6 @@
     },
     "content_for_index": [],
     "blocks": {
-      "14349876303613368351": {
-        "type": "shopify://apps/reorderly/blocks/saved-badges/019c0e6e-125d-7dd7-b669-dc1066c16353",
-        "disabled": false,
-        "settings": {
-          "badge_label": "Saved",
-          "badge_style": "pill",
-          "badge_position": "top-right"
-        }
-      },
       "1768834845299682660": {
         "type": "shopify://apps/subscriptions/blocks/app-embed-block/a3bfe9ec-96f8-4508-a003-df608a36d2ad",
         "disabled": false,
@@ -158,9 +149,18 @@
           "subscription_policy_url": ""
         }
       },
+      "14349876303613368351": {
+        "type": "shopify://apps/orderloop/blocks/saved-badges/019c0e6e-125d-7dd7-b669-dc1066c16353",
+        "disabled": false,
+        "settings": {
+          "badge_label": "Saved",
+          "badge_style": "pill",
+          "badge_position": "top-right"
+        }
+      },
       "12468477411756367105": {
         "type": "shopify://apps/orderloop/blocks/quick-add-to-list/019c0e6e-125d-7dd7-b669-dc1066c16353",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "position": "top-right",
           "icon_style": "heart",
