@@ -9,24 +9,6 @@
  */
 {
   "sections": {
-    "178879663183706ffe": {
-      "type": "apps",
-      "blocks": {
-        "orderloop_save_cart_to_list_hRTgWY": {
-          "type": "shopify://apps/orderloop/blocks/save-cart-to-list/019c0e6e-125d-7dd7-b669-dc1066c16353",
-          "settings": {
-            "button_label": "Save cart to list",
-            "button_style": "primary"
-          }
-        }
-      },
-      "block_order": [
-        "orderloop_save_cart_to_list_hRTgWY"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "cart-items": {
       "type": "main-cart-items",
       "settings": {
@@ -55,6 +37,25 @@
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 40
+      }
+    },
+    "178879663183706ffe": {
+      "type": "apps",
+      "blocks": {
+        "orderloop_save_cart_to_list_hRTgWY": {
+          "type": "shopify://apps/orderloop/blocks/save-cart-to-list/019c0e6e-125d-7dd7-b669-dc1066c16353",
+          "settings": {
+            "button_label": "Save cart to list",
+            "button_style": "primary",
+            "alignment": "right"
+          }
+        }
+      },
+      "block_order": [
+        "orderloop_save_cart_to_list_hRTgWY"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "featured-collection": {
@@ -87,9 +88,9 @@
     }
   },
   "order": [
-    "178879663183706ffe",
     "cart-items",
     "cart-footer",
+    "178879663183706ffe",
     "featured-collection"
   ]
 }
