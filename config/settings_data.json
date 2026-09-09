@@ -149,18 +149,9 @@
           "subscription_policy_url": ""
         }
       },
-      "14349876303613368351": {
-        "type": "shopify://apps/orderloop/blocks/saved-badges/019c0e6e-125d-7dd7-b669-dc1066c16353",
-        "disabled": false,
-        "settings": {
-          "badge_label": "Saved",
-          "badge_style": "pill",
-          "badge_position": "top-right"
-        }
-      },
       "12468477411756367105": {
         "type": "shopify://apps/orderloop/blocks/quick-add-to-list/019c0e6e-125d-7dd7-b669-dc1066c16353",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "position": "top-right",
           "icon_style": "heart",
