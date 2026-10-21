@@ -165,6 +165,13 @@
         "settings": {
           "show_icon": true
         }
+      },
+      "11652313932187472489": {
+        "type": "shopify://apps/daily-gifts/blocks/popup/01a15e6c-3268-73ce-9e4a-b97ccbbe047e",
+        "disabled": false,
+        "settings": {
+          "calendar_id": ""
+        }
       }
     },
     "color_schemes": {
