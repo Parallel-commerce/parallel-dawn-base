@@ -253,6 +253,23 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "17925923327b610331": {
+      "type": "apps",
+      "blocks": {
+        "daily_gifts_calendar_eHDaT4": {
+          "type": "shopify://apps/daily-gifts/blocks/calendar/01a15e6c-3268-73ce-9e4a-b97ccbbe047e",
+          "settings": {
+            "calendar_id": "3FVXA8"
+          }
+        }
+      },
+      "block_order": [
+        "daily_gifts_calendar_eHDaT4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -262,6 +279,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "17925923327b610331"
   ]
 }
