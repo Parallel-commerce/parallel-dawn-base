@@ -258,9 +258,9 @@
       "type": "apps",
       "blocks": {
         "daily_gifts_calendar_eHDaT4": {
-          "type": "shopify://apps/daily-gifts/blocks/calendar/01a15e6c-3268-73ce-9e4a-b97ccbbe047e",
+          "type": "shopify://apps/daily-reveal-calendar/blocks/calendar/01a15e6c-3268-73ce-9e4a-b97ccbbe047e",
           "settings": {
-            "calendar_id": "3FVXA8"
+            "calendar_id": "BTHLKJ"
           }
         }
       },
