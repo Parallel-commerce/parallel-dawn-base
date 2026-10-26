@@ -102,7 +102,7 @@
             "items_per_page": 20,
             "show_product_image": false,
             "image_size": "50px",
-            "show_price": true,
+            "show_price": false,
             "show_variant_selector": true,
             "show_quantity_stepper": true,
             "show_recommendations": true,
