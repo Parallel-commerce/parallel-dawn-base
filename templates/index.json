@@ -100,7 +100,7 @@
             "padding_bottom": 40,
             "empty_state_text": "",
             "items_per_page": 20,
-            "show_product_image": true,
+            "show_product_image": false,
             "image_size": "50px",
             "show_price": true,
             "show_variant_selector": true,
