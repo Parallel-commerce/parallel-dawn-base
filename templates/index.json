@@ -100,9 +100,9 @@
             "padding_bottom": 40,
             "empty_state_text": "",
             "items_per_page": 20,
-            "show_product_image": true,
+            "show_product_image": false,
             "image_size": "50px",
-            "show_price": true,
+            "show_price": false,
             "show_variant_selector": true,
             "show_quantity_stepper": true,
             "show_recommendations": true,
@@ -258,7 +258,7 @@
       "type": "apps",
       "blocks": {
         "daily_gifts_calendar_eHDaT4": {
-          "type": "shopify://apps/daily-reveal-calendar/blocks/calendar/01a15e6c-3268-73ce-9e4a-b97ccbbe047e",
+          "type": "shopify://apps/glowdoor/blocks/calendar/01a15e6c-3268-73ce-9e4a-b97ccbbe047e",
           "settings": {
             "calendar_id": "AAU8WJ"
           }
